@@ -1,0 +1,4 @@
+-This is my first project.
+-Implemented a static home page of Amazon E-commerce website.
+-I used HTML and CSS in it.
+-Learned the implimentation of Hovering effect using CSS,style Footer,add links and icons.
